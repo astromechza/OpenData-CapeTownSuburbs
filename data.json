@@ -1,0 +1,438 @@
+{
+    "Atlantic Seaboard": {
+        "Bantry Bay": {
+            "latitude": -33.916666666666664,
+            "longitude": 18.366666666666667
+        },
+        "Camps Bay": {
+            "latitude": -33.95,
+            "longitude": 18.383333333333333
+        },
+        "Clifton": {
+            "latitude": -33.94,
+            "longitude": 18.375833333333333
+        },
+        "Fresnaye": {
+            "latitude": -33.925,
+            "longitude": 18.3875
+        },
+        "Green Point": {
+            "latitude": -33.9,
+            "longitude": 18.4
+        },
+        "Hout Bay": {
+            "latitude": -34.03333333333333,
+            "longitude": 18.35
+        },
+        "Imizamo Yethu": {
+            "latitude": -34.016666666666666,
+            "longitude": 18.35
+        },
+        "Llandudno": {
+            "latitude": -34.0,
+            "longitude": 18.333333333333332
+        },
+        "Mouille Point": {
+            "latitude": -33.90083333333333,
+            "longitude": 18.405555555555555
+        },
+        "Sea Point": {
+            "latitude": -33.915277777777774,
+            "longitude": 18.3925
+        },
+        "Three Anchor Bay": {
+            "latitude": -33.90833333333333,
+            "longitude": 18.395833333333332
+        }
+    },
+    "Cape Flats": {
+        "Athlone": {
+            "latitude": -33.961111111111116,
+            "longitude": 18.503055555555555
+        },
+        "Belhar": {
+            "latitude": -33.95,
+            "longitude": 18.633333333333333
+        },
+        "Bishop Lavis": {},
+        "Blue Downs": {
+            "latitude": -34.0,
+            "longitude": 18.6975
+        },
+        "Bonteheuwel": {
+            "latitude": -33.95111111111111,
+            "longitude": 18.55388888888889
+        },
+        "Crawford": {
+            "latitude": -33.97944444444445,
+            "longitude": 18.506666666666668
+        },
+        "Delft": {
+            "latitude": -33.96555555555556,
+            "longitude": 18.644444444444446
+        },
+        "Electric City": {},
+        "Elsie's River": {
+            "latitude": -33.918055555555554,
+            "longitude": 18.576666666666668
+        },
+        "Epping": {
+            "latitude": -33.93416666666666,
+            "longitude": 18.54361111111111
+        },
+        "Grassy Park": {
+            "latitude": -34.05,
+            "longitude": 18.483333333333334
+        },
+        "Gugulethu": {
+            "latitude": -33.983333333333334,
+            "longitude": 18.566666666666666
+        },
+        "Hanover Park": {
+            "latitude": -33.99388888888889,
+            "longitude": 18.53111111111111
+        },
+        "Kalksteenfontein": {},
+        "Khayelitsha": {
+            "latitude": -34.040277777777774,
+            "longitude": 18.67777777777778
+        },
+        "Langa": {
+            "latitude": -33.945277777777775,
+            "longitude": 18.529999999999998
+        },
+        "Lansdowne": {
+            "latitude": -33.98583333333333,
+            "longitude": 18.50027777777778
+        },
+        "Lavender Hill": {},
+        "Lotus River": {},
+        "Macassar": {
+            "latitude": -34.06666666666667,
+            "longitude": 18.766666666666666
+        },
+        "Manenberg": {
+            "latitude": -33.983333333333334,
+            "longitude": 18.55
+        },
+        "Mitchell's Plain": {
+            "latitude": -34.050555555555555,
+            "longitude": 18.618055555555557
+        },
+        "Nyanga": {
+            "latitude": -33.983333333333334,
+            "longitude": 18.583333333333332
+        },
+        "Ottery": {
+            "latitude": -34.014722222222225,
+            "longitude": 18.504444444444445
+        },
+        "Pellican Park": {},
+        "Philippi": {
+            "latitude": -34.016666666666666,
+            "longitude": 18.55
+        },
+        "Samora Micheal": {},
+        "Strandfontein": {
+            "latitude": -34.07611111111112,
+            "longitude": 18.573055555555555
+        },
+        "Wetton": {}
+    },
+    "City Bowl": {
+        "Bo-Kaap": {
+            "latitude": -33.920833333333334,
+            "longitude": 18.415277777777778
+        },
+        "De Waterkant": {
+            "latitude": -33.915277777777774,
+            "longitude": 18.41888888888889
+        },
+        "Devil's Peak": {},
+        "Foreshore": {
+            "latitude": -33.916666666666664,
+            "longitude": 18.433333333333334
+        },
+        "Gardens": {
+            "latitude": -33.93333333333333,
+            "longitude": 18.40833333333333
+        },
+        "Higgovale": {
+            "latitude": -33.93944444444444,
+            "longitude": 18.4025
+        },
+        "Lower Vrede": {},
+        "Oranjezicht": {
+            "latitude": -33.94166666666666,
+            "longitude": 18.413888888888888
+        },
+        "Salt River": {
+            "latitude": -33.93277777777777,
+            "longitude": 18.4575
+        },
+        "Schotse Kloof": {},
+        "Tamboerskloof": {
+            "latitude": -33.92916666666667,
+            "longitude": 18.404166666666665
+        },
+        "University Estate": {
+            "latitude": -33.93888888888888,
+            "longitude": 18.45138888888889
+        },
+        "Vredehoek": {
+            "latitude": -33.9375,
+            "longitude": 18.425
+        },
+        "Walmer Estate": {
+            "latitude": -33.93611111111111,
+            "longitude": 18.445
+        },
+        "Woodstock": {
+            "latitude": -33.93055555555555,
+            "longitude": 18.447222222222223
+        },
+        "Zonnebloem": {}
+    },
+    "Helderberg": {
+        "Gordon's Bay": {
+            "latitude": -34.166666666666664,
+            "longitude": 18.866666666666667
+        },
+        "Somerset West": {
+            "latitude": -34.083333333333336,
+            "longitude": 18.85
+        },
+        "Strand": {
+            "latitude": -34.11666666666667,
+            "longitude": 18.816666666666666
+        }
+    },
+    "Northern Suburbs": {
+        "Bellville": {
+            "latitude": -33.9,
+            "longitude": 18.633333333333333
+        },
+        "Bothasig": {
+            "latitude": -33.85944444444445,
+            "longitude": 18.539722222222224
+        },
+        "Brackenfell": {
+            "latitude": -33.86666666666667,
+            "longitude": 18.683333333333334
+        },
+        "Brooklyn": {},
+        "Durbanville": {
+            "latitude": -33.8325,
+            "longitude": 18.6475
+        },
+        "Edgemead": {
+            "latitude": -33.87555555555556,
+            "longitude": 18.540833333333335
+        },
+        "Elsie's River": {
+            "latitude": -33.918055555555554,
+            "longitude": 18.576666666666668
+        },
+        "Goodwood": {
+            "latitude": -33.91131111111111,
+            "longitude": 18.550591666666666
+        },
+        "Kensington": {
+            "latitude": -33.91027777777778,
+            "longitude": 18.50777777777778
+        },
+        "Kraaifontein": {
+            "latitude": -33.844166666666666,
+            "longitude": 18.698611111111113
+        },
+        "Kuils River": {
+            "latitude": -34.03333333333333,
+            "longitude": 18.7
+        },
+        "Maitland": {
+            "latitude": -33.92472222222222,
+            "longitude": 18.486944444444447
+        },
+        "Monte Vista": {
+            "latitude": -33.86666666666667,
+            "longitude": 18.55
+        },
+        "Panorama": {
+            "latitude": -33.88,
+            "longitude": 18.57611111111111
+        },
+        "Parow": {
+            "latitude": -33.9,
+            "longitude": 18.6
+        },
+        "Table View": {
+            "latitude": -33.81666666666667,
+            "longitude": 18.483333333333334
+        },
+        "Thornton": {
+            "latitude": -33.92361111111111,
+            "longitude": 18.53527777777778
+        }
+    },
+    "South Peninsula": {
+        "Capri Village": {
+            "latitude": -34.13527777777778,
+            "longitude": 18.386666666666667
+        },
+        "Clovelly": {
+            "latitude": -34.11666666666667,
+            "longitude": 18.433333333333334
+        },
+        "Fish Hoek": {
+            "latitude": -34.13611111111111,
+            "longitude": 18.43
+        },
+        "Glencairn": {
+            "latitude": -34.163333333333334,
+            "longitude": 18.429722222222225
+        },
+        "Kalk Bay": {
+            "latitude": -34.12777777777778,
+            "longitude": 18.448333333333334
+        },
+        "Kommetjie": {
+            "latitude": -34.140277777777776,
+            "longitude": 18.329166666666666
+        },
+        "Lakeside": {},
+        "Marina da Gama": {},
+        "Masiphumelele": {
+            "latitude": -34.11666666666667,
+            "longitude": 18.366666666666667
+        },
+        "Muizenberg": {
+            "latitude": -34.105,
+            "longitude": 18.471666666666668
+        },
+        "Noordhoek": {
+            "latitude": -34.10388888888889,
+            "longitude": 18.360000000000003
+        },
+        "Ocean View": {
+            "latitude": -34.15333333333333,
+            "longitude": 18.35527777777778
+        },
+        "Scarborough": {
+            "latitude": -34.19833333333333,
+            "longitude": 18.375555555555557
+        },
+        "Simon's Town": {
+            "latitude": -34.19333333333333,
+            "longitude": 18.433333333333334
+        },
+        "St James": {
+            "latitude": -34.11888888888889,
+            "longitude": 18.459166666666665
+        },
+        "Sun Valley": {},
+        "Sunnydale": {}
+    },
+    "Southern Suburbs": {
+        "Bergvliet": {
+            "latitude": -34.045833333333334,
+            "longitude": 18.454166666666666
+        },
+        "Bishopscourt": {
+            "latitude": -33.99027777777778,
+            "longitude": 18.445833333333333
+        },
+        "Claremont": {
+            "latitude": -33.980555555555554,
+            "longitude": 18.46527777777778
+        },
+        "Constantia": {
+            "latitude": -34.03138888888889,
+            "longitude": 18.418333333333333
+        },
+        "Diep River": {
+            "latitude": -34.034166666666664,
+            "longitude": 18.464444444444442
+        },
+        "Heathfield": {
+            "latitude": -34.04861111111111,
+            "longitude": 18.46861111111111
+        },
+        "Kenilworth": {
+            "latitude": -33.99583333333334,
+            "longitude": 18.474999999999998
+        },
+        "Kenwyn": {
+            "latitude": -33.99888888888889,
+            "longitude": 18.50861111111111
+        },
+        "Kreupelbosch": {},
+        "Meadowridge": {},
+        "Mowbray": {
+            "latitude": -33.94611111111111,
+            "longitude": 18.47611111111111
+        },
+        "Newlands": {
+            "latitude": -33.97916666666667,
+            "longitude": 18.45
+        },
+        "Observatory": {
+            "latitude": -33.937777777777775,
+            "longitude": 18.47083333333333
+        },
+        "Pinelands": {
+            "latitude": -33.931666666666665,
+            "longitude": 18.512777777777778
+        },
+        "Plumstead": {
+            "latitude": -34.02222222222222,
+            "longitude": 18.47222222222222
+        },
+        "Retreat": {
+            "latitude": -34.055,
+            "longitude": 18.475555555555555
+        },
+        "Rondebosch": {
+            "latitude": -33.96333333333334,
+            "longitude": 18.476388888888888
+        },
+        "Rondebosch East": {
+            "latitude": -33.97916666666667,
+            "longitude": 18.498333333333335
+        },
+        "Rosebank": {
+            "latitude": -33.955555555555556,
+            "longitude": 18.474166666666665
+        },
+        "Steenberg": {
+            "latitude": -34.06666666666667,
+            "longitude": 18.466666666666665
+        },
+        "Tokai": {
+            "latitude": -34.0625,
+            "longitude": 18.441666666666666
+        },
+        "Wynberg": {
+            "latitude": -34.00416666666667,
+            "longitude": 18.470277777777778
+        }
+    },
+    "West Coast": {
+        "Bloubergstrand": {
+            "latitude": -33.79722222222222,
+            "longitude": 18.461944444444445
+        },
+        "Milnerton": {
+            "latitude": -33.86666666666667,
+            "longitude": 18.5
+        },
+        "Parklands": {
+            "latitude": -33.81444444444444,
+            "longitude": 18.5025
+        },
+        "Tableview": {
+            "latitude": -33.81666666666667,
+            "longitude": 18.483333333333334
+        },
+        "West Beach": {}
+    }
+}
